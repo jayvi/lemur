@@ -1,12 +1,5 @@
 /**
- * demo1.js
- * http://www.codrops.com
- *
- * Licensed under the MIT license.
- * http://www.opensource.org/licenses/mit-license.php
- * 
- * Copyright 2017, Codrops
- * http://www.codrops.com
+
  */
 {
 	// Helper vars and functions.
@@ -126,7 +119,7 @@
 			tx: -30,
 			ty: -300,
 			fill: {
-				color: '#282faf',
+				color: '#38a3c7',
 				duration: 500,
 				easing: 'linear'
 			},
@@ -151,7 +144,7 @@
 			tx: 0,
 			ty: -100,
 			fill: {
-				color: '#282faf',
+				color: '#38a3c7',
 				duration: 500,
 				easing: 'linear'
 			},
@@ -176,7 +169,7 @@
 			tx: 200,
 			ty: 200,
 			fill: {
-				color: '#282faf',
+				color: '#38a3c7',
 				duration: 500,
 				easing: 'linear'
 			},
@@ -201,7 +194,7 @@
 			tx: 0,
 			ty: -50,
 			fill: {
-				color: '#282faf',
+				color: '#38a3c7',
 				duration: 500,
 				easing: 'linear'
 			},
@@ -226,7 +219,7 @@
 			tx: 250,
 			ty: 50,
 			fill: {
-				color: '#282faf',
+				color: '#38a3c7',
 				duration: 500,
 				easing: 'linear'
 			},
@@ -252,7 +245,7 @@
 			tx: 0,
 			ty: -50,
 			fill: {
-				color: '#282faf',
+				color: '#38a3c7',
 				duration: 500,
 				easing: 'linear'
 			},

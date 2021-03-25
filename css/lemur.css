@@ -21,8 +21,8 @@ body {
     background-size: 100%;
     background-position: top;
     background-attachment: fixed;
-	--background-color-2: #282faf;
-	--background-color-3: #202692;
+	--background-color-2: #38a3c7;
+	--background-color-3: #38a3c7;
 	--link-color: #03b9f1;
 	--link-hover-color: #fff;
 	font-family: 'Roboto Mono', monospace;
@@ -336,7 +336,7 @@ a:focus {
 }
 
 /* Header */
-.codrops-header {
+.lemur-header {
 	position: relative;
 	display: flex;
 	flex-direction: row;
@@ -348,7 +348,7 @@ a:focus {
 	justify-self: start;
 }
 
-.codrops-header__title {
+.lemur-header__title {
 	font-size: 1em;
 	padding: 0.75em 0;
 	margin: 0;
@@ -398,7 +398,7 @@ a:focus {
 }
 
 /* Top Navigation Style */
-.codrops-links {
+.lemur-links {
 	position: relative;
     display: flex;
     justify-content: space-between;
@@ -408,7 +408,7 @@ a:focus {
     white-space: nowrap;
 }
 
-.codrops-icon {
+.lemur-icon {
 	position: relative;
 	display: inline-block;
 	padding: 0.75em 0.75em 1em;
@@ -418,7 +418,7 @@ a:focus {
 .lemur-2 {
 	--background-color: #1d1b22;
 	--background-color-2: #342560;
-	--background-color-3: #553e9a;
+	--background-color-3: #38a3c7;
 	--text-color: #fff;
 	--link-color: #f9ed8a;
 	--link-hover-color: #fff;
@@ -427,7 +427,7 @@ a:focus {
 .lemur-3 {
 	--background-color: #56cccf;
 	--background-color-2: #41e0e4;
-	--background-color-3: #1747c0;
+	--background-color-3: #38a3c7;
 	--text-color: #fff;
 	--link-color: #fff;
 	--link-hover-color: #17b1b5;
@@ -447,7 +447,7 @@ a:focus {
 		z-index: 1000;
 		position: absolute;
 	}
-	.codrops-header {
+	.lemur-header {
 		align-items: center;
 		flex-direction: column;
 	}
