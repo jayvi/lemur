@@ -18,7 +18,7 @@ body {
 	--background-color: #ffe856;
 	background-image: url(../img/bbb.png);
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
     background-position: top;
     background-attachment: fixed;
 	--background-color-2: #38a3c7;
